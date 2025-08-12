@@ -1,0 +1,13 @@
+.animated-card {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.animated-card:hover {
+  transform: scale(1.02);
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  font-family: monospace;
+}
